@@ -1,0 +1,19 @@
+src/SPI_program.o: ../src/SPI_program.c \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/STD_TYPES.h \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/BIT_MATH.h \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/DIO_interface.h \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_interface.h \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_private.h \
+ E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_config.h
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/STD_TYPES.h:
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/BIT_MATH.h:
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/DIO_interface.h:
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_interface.h:
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_private.h:
+
+E:\ARMm3_STM\ARM_project\Snake_game\include/SPI_config.h:
