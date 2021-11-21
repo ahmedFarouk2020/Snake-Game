@@ -21,5 +21,7 @@ This is a Snake game build purely using C firmware "code"
 ## Future Improvements
 1. "Welcome" sceen at the beginning of games
 2. "Game over" screen after losing and display also the score
+3. Add options to users to allow them choosing color of snack and background
+4. An Option to choose difficultly level (Easy-Hard)
 
 # [Click me for DEMO](https://drive.google.com/file/d/10pTABlZvBSWjaC1NTdtnmoPoIFboN_Hr/view?usp=sharing)
